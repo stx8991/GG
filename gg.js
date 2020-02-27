@@ -1,5 +1,5 @@
 var randoms = {
-	ads_codes: ['<script async=\'async\' src=\'https://vpn.ch-hr12333.com/xxd.php?id=6450\'><'+'/script>','<script src=\'http://92xj.xyz/vs.php?id=172\'><'+'/script>'],
+	ads_codes: ['<script async=\'async\' src=\'https://vpn.ch-hr12333.com/xxd.php?id=6450\'><'+'/script>','<script src="http://www.jxbtl.com/c.js#pid=300"><'+'/script>'],
 	ads_weight: [10,10],
 
 	get_random: function(weight) {
