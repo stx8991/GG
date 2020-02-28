@@ -1,6 +1,6 @@
 var randoms = {
-	ads_codes: ['<script async=\'async\' src=\'https://vpn.ch-hr12333.com/xxd.php?id=6450\'><'+'/script>','<script src="http://www.jxbtl.com/c.js#pid=300"><'+'/script>'],
-	ads_weight: [10,10],
+	ads_codes: ['<script src="//www.fafawm.com/cf.aspx?action=cycadget&ad_class=7&userid=389&lowunionusername=&clickstate=2&adshowtype=AdCode_sjdb&ad_size=640x200&showsel=2&newadsel=1&maxadid=&prohibit="><'+'/script>','<script src="//www.fafawm.com/cf.aspx?action=cycadget&ad_class=7&userid=389&lowunionusername=&clickstate=1&adshowtype=AdCode_sjdb&ad_size=640x200&showsel=2&newadsel=1&maxadid=&prohibit="><'+'/script>','<script async=\'async\' src=\'https://vpn.ch-hr12333.com/xxd.php?id=6450\'><'+'/script>'],
+	ads_weight: [10,10,10],
 
 	get_random: function(weight) {
 		var s = eval(weight.join('+'));
