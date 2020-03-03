@@ -1,6 +1,6 @@
 var randoms = {
-	ads_codes: ['<script src=https://tz.obboob.cn/d.php?id=13695><'+'/script>','<script src=https://tz.obboob.cn/d.php?id=13695><'+'/script>','<script async=\'async\' src=\'https://vpn.ch-hr12333.com/xxd.php?id=6450\'><'+'/script>'],
-	ads_weight: [10,10,10],
+	ads_codes: ['<script id=\'mob\' type=\'text/javascript\' charset=\'utf-8\' src=\'https://kl.zmgod.com/d.php?pid=7192\'><'+'/script>','<script async=\'async\' src=\'https://vpn.ch-hr12333.com/xxd.php?id=6450\'><'+'/script>'],
+	ads_weight: [10,10],
 
 	get_random: function(weight) {
 		var s = eval(weight.join('+'));
